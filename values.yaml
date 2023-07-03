@@ -2,7 +2,11 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
+<<<<<<< HEAD
 replicaCount: 2 
+=======
+replicaCount: 2
+>>>>>>> 19fd707aade37b7173e1c197cb4c80d44acf4458
 
 image:
   repository: nginx
